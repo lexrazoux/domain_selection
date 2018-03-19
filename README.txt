@@ -5,7 +5,7 @@ by Lex Razoux Schultz and Marco Loog, Peyman Mohajerin Esfahani in cooperation w
 
 
 Reproducing results 
------------------------------------------------------------------------------------------------------------------------------------------------------|
+-----------------------------------------------------------------------------------------------------------|
 To reproduce the plots in the paper, run "main.py" for figure 3 and 4 and table 1.
 These scripts first calculate the Chi2, MMD, EMD and KLD for all possible data set pairs and subsequently performs source domain selection
 as described in the paper and results are plotted.
@@ -17,8 +17,8 @@ Code only has to be run partly. Do run the first section first in order to be ab
 The significance of all results are calculated in the "significance_ttest_all.py". Please be aware, this code is mainly written for private use.
 
 
-Referencing 
------------------------------------------------------------------------------------------------------------------------------------------------------|
+Referencing
+-----------------------------------------------------------------------------------------------------------|
 If code is used, please cite:
 
 @unpublished{razouxschultz2018distance,
@@ -31,7 +31,7 @@ year = {2018}
 
 
 Files summary 
------------------------------------------------------------------------------------------------------------------------------------------------------|
+-----------------------------------------------------------------------------------------------------------|
 Name:			Type:			Content:
 backup.p		pickle file		stored results that are used to construct figure 4 
 datasets		folder			datasets used in experiments
@@ -47,7 +47,7 @@ table1.txt		txt file		table 1 of paper
 XI.p			pickle file		stored resuls for training on n random selected domains
 
 Data sets
------------------------------------------------------------------------------------------------------------------------------------------------------|
+-----------------------------------------------------------------------------------------------------------|
 All data sets are publicly available and retrieved from different sources. When using them, please reference to their source.
 
 Dataset 2:

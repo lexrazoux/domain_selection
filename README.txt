@@ -1,5 +1,5 @@
 This folder consists of the datasets and code used in the paper 
-"Distance Based Source Domain Selectionfor Automated Sentiment Classification" 
+"Distance Based Source Domain Selection for Automated Sentiment Classification" 
 by Lex Razoux Schultz and Marco Loog, Peyman Mohajerin Esfahani in cooperation with Crunchr BV.
 
 
